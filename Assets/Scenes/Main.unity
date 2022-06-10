@@ -1451,6 +1451,8 @@ MonoBehaviour:
     deciderRatio: 0
     latestDecision: 0
     answer: 0
+    playedAsPlayer1: 0
+    answeredAllQuestions: 0
   choices: []
 --- !u!1 &349702027
 GameObject:
@@ -4496,6 +4498,8 @@ MonoBehaviour:
     deciderRatio: 0
     latestDecision: 0
     answer: 0
+    playedAsPlayer1: 0
+    answeredAllQuestions: 0
 --- !u!1 &989434361
 GameObject:
   m_ObjectHideFlags: 0
